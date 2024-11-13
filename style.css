@@ -31,6 +31,10 @@
     width: 50%;
     font: 30px;
     }
+    header div.logo{
+        display: flex;
+        align-items: center;
+    }
     .sociais{
     display: flex;
     justify-content: flex-end;

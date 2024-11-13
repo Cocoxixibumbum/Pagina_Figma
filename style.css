@@ -27,10 +27,13 @@
     }
     .titulo_site{
     padding: 50px;
-    display: flex;
-    align-items: center;
+    text-align: center;
     width: 50%;
     font: 30px;
+    }
+    header div.logo{
+        display: flex !important;
+        align-items: center !important;
     }
     .sociais{
     display: flex;
